@@ -18,3 +18,9 @@ body {
   border: 3px solid white;
   border-radius: 25px;
 }
+#board div {
+  width: 180px;
+  height: 180px;
+  background-image: url(images/pipe.png);
+  background-size: cover;
+}
